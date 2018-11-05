@@ -1,6 +1,7 @@
 # online-Shopping-Mini-Project-
 
-No backend code has been added it's purely front-end.
+No back-end code has been added it's purely front-end.
+
 Included
 - CSS
 - JS
