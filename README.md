@@ -17,8 +17,8 @@ This is mini project I developed to help me learn how to use and integrate vario
 I would solicit that my poor coding style be forgiven seeing it's my first commit and I would appreciate your corrections as to how it can be better implemented. I am very passionate about open source development and would really appreciate your kind contributions to help me improve and be a vibrant member of the community.
 
 This mini project utilises 
-- twitter bootstrap4 ( for navigation)
+- twitter bootstrap4 ( used to create the nav bar)
 - Jquery
-- Slicebox( for picture slideshow)
+- Slicebox(used to create the slideshow)
 
 I will once again appreciate your contributions.
